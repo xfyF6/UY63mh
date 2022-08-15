@@ -1,5 +1,5 @@
 {
-  "name": "SSR2HeroKu",
+  "name": "UY63mh",
   "description": "Deploy SSRoT to Heroku.",
   "keywords": ["node","js","Docker"],
   "env": {
@@ -10,15 +10,15 @@
 
     "PASSWORD": {
       "description": "随机 密码, 请使用 uuidgenerator.net 生成一个新的 UUID 替换当前这个, 否则 GFW 很快会封了这服务端.",
-      "value": "13955112-79c5-4aae-ac01-aabec4c963aa"
+      "value": ""
     },
 
     "SECRET_PATH": {
       "description": "随机 URL 路径, 请使用 uuidgenerator.net 生成一个新的 UUID 替换当前这个, 否则 GFW 很快会封了这服务端.",
-      "value": "9ccbb338-2c45-4751-b767-8ba83a1e5624"
+      "value": ""
     }
   },
-  "website": "https://github.com/ShadowsocksR-Live/ssr2heroku",
-  "repository": "https://github.com/ShadowsocksR-Live/ssr2heroku",
+  "website": "https://github.com/xfyF6/UY63mh",
+  "repository": "https://github.com/xfyF6/UY63mh",
   "stack": "container"
 }
